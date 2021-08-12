@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ark2056
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me @aadilkansakar@gmail.com
 
